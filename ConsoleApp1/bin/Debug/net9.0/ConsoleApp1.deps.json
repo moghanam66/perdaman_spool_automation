@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Autodesk.Navisworks.Api": "21.0.0.0",
+          "Autodesk.Navisworks.Automation": "21.0.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Autodesk.Navisworks.Api/21.0.0.0": {
+        "runtime": {
+          "Autodesk.Navisworks.Api.dll": {
+            "assemblyVersion": "21.0.0.0",
+            "fileVersion": "21.3.1423.42"
+          }
+        }
+      },
+      "Autodesk.Navisworks.Automation/21.0.0.0": {
+        "runtime": {
+          "Autodesk.Navisworks.Automation.dll": {
+            "assemblyVersion": "21.0.0.0",
+            "fileVersion": "21.3.1423.42"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autodesk.Navisworks.Api/21.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autodesk.Navisworks.Automation/21.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
